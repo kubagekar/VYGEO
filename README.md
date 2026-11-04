@@ -1,4 +1,4 @@
-# VYGEO
+# VYGEO vylepšená verze
 
 toto je zkušební repositář pro VYGEO
 
